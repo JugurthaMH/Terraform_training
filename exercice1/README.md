@@ -21,6 +21,20 @@ L'usage de Terraform.
 L'objectif étant de sécuriser la configuration avec des préconditions et postconditions.
 
 ### Problème rencontré et pourquoi il est survenu
+J'apprends le concept, donc je cherche des solutions et je cherchais à comprendre pourquoi ca ne marchait pas.
+
+### Solution appliquée et pourquoi cette solution fonctionne
+Demandez de l'aide au professeur après avoir fait des recherches en amont sur la documentation.
+
+### Ce que j'ai appris
+Faire des tests avec un fichier .hcl permet d'automatisé des tests pour voir si le script terraform réalise bien des résultats voulus.
+
+## Exercice 3 — Tests & conditions
+
+### Court résumé de l’objectif visé
+qsdqsd
+
+### Problème rencontré et pourquoi il est survenu
 qdqdqsd
 
 ### Solution appliquée et pourquoi cette solution fonctionne
