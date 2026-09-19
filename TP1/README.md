@@ -29,7 +29,7 @@ Demandez de l'aide au professeur après avoir fait des recherches en amont sur l
 ### Ce que j'ai appris
 Faire des tests avec un fichier .hcl permet d'automatisé des tests pour voir si le script terraform réalise bien des résultats voulus.
 
-## Exercice 3 — Tests & conditions
+## Exercice 3 — Modules
 
 ### Court résumé de l’objectif visé
 qsdqsd
