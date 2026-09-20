@@ -32,7 +32,7 @@ Faire des tests avec un fichier .hcl permet d'automatisé des tests pour voir si
 ## Exercice 3 — Modules
 
 ### Court résumé de l’objectif visé
-qsdqsd
+Factoriser la génération de fichiers via Terraform
 
 ### Problème rencontré et pourquoi il est survenu
 qdqdqsd
