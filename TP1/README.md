@@ -35,10 +35,10 @@ Faire des tests avec un fichier .hcl permet d'automatisé des tests pour voir si
 Factoriser la génération de fichiers via Terraform
 
 ### Problème rencontré et pourquoi il est survenu
-qdqdqsd
+Je ne comprenais pas comment je disais à mon module racine de récupérer les modules du dossier modules/pet_fleet
 
 ### Solution appliquée et pourquoi cette solution fonctionne
-qzaeeazeae
+Je me suis renseigné sur le systeme de source dans les modules pour lui donner le chemin de mes nouveaux modules.
 
 ### Ce que j'ai appris
-qdqaeazeaze
+J'ai appris à connecter des modules enfants avec le module racine.

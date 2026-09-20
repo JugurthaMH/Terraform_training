@@ -47,3 +47,8 @@ output "animal_name" {
 output "filename" {
     value = local_file.foo.filename
 }
+
+module "mes_animaux" {
+  source    = "./modules/pet_fleet"
+  pet_count = 5
+}
